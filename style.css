@@ -1,0 +1,60 @@
+.work .box-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.work .box-container .box {
+    flex: 1;
+    max-width: 600px;
+    background: #fff;
+    border-radius: 1rem;
+    padding: 2rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+.work .box-container .box .content {
+    text-align: center;
+}
+
+.work .box-container .box .content .tag h3 {
+    font-size: 2rem;
+    color: #2506ad;
+}
+
+.work .box-container .box .content .desc {
+    margin-top: 1rem;
+}
+
+.work .box-container .box .content .desc p {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.work .box-container .box img {
+    display: none;
+}
+
+.logo {
+    font-size: 2.5rem;
+    font-weight: 800;
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo i {
+    font-size: 2.2rem;
+    padding-right: 0.5rem;
+    color: #4070f4;
+}
+
+.logo span {
+    color: #4070f4;
+    font-weight: 600;
+}
+
+.logo:hover {
+    color: #4070f4;
+    transition: .2s ease;
+} 
