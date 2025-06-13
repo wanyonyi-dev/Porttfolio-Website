@@ -100,5 +100,9 @@
     {
         "name": "Flask",
         "icon": "https://img.icons8.com/ios/48/000000/flask.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/fluency/48/000000/laravel.png"
     }    
 ]
